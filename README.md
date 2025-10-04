@@ -1,4 +1,4 @@
-**Nvchad config tailored to my prefrences**
+**Nvchad config tailored to my preferences**
 
 # Credits
 
